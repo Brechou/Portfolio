@@ -38,7 +38,7 @@
           <p class="lg:text-xl md:text-lg text-base text-slate-300 max-w-2xl leading-relaxed">
             Développeur web passionné, je conçois des applications web modernes, interactives et performantes.
             Spécialisé en JavaScript, Vue.js et Tailwind CSS, je transforme vos idées en expériences digitales exceptionnelles.
-          </p>
+          </p> 
 
           <!-- Stats -->
           <div class="flex gap-8 mt-4">
