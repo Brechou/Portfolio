@@ -105,13 +105,13 @@
         <div class="flex gap-2 mt-3 flex-wrap">
           <span class="tag">Vue.js</span>
           <span class="tag">JavaScript</span>
-          <span class="tag">Tailwind CSS</span>
+          <span class="tag">CSS</span>
         </div>
 
         <div class="flex gap-4 mt-4">
           <a class="btn opacity-50 cursor-not-allowed">🚧 Démo bientôt</a>
           <a
-            href="https://github.com/Brechou/Portfolio"
+            href="https://github.com/Brechou/ecommTpdemort"
             target="_blank"
             class="btn-outline"
             >💻 Code source</a
