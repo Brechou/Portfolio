@@ -40,7 +40,8 @@
         </div>
 
         <div class="flex gap-4 mt-4">
-          <a class="btn opacity-50 cursor-not-allowed">🚧 Démo bientôt</a>
+          <a href="portfolio-vrnn-2jfz36k2b-brechou-6830s-projects.vercel.app"
+            target="_blank" class="btn">📃Voir le site</a>
           <a
             href="https://github.com/Brechou/Portfolio"
             target="_blank"
@@ -109,7 +110,9 @@
         </div>
 
         <div class="flex gap-4 mt-4">
-          <a class="btn opacity-50 cursor-not-allowed">🚧 Démo bientôt</a>
+          <a href="https://ecomm-tpdemort.vercel.app/"
+            target="_blank"
+            class="btn">📃Voir le site</a>
           <a
             href="https://github.com/Brechou/ecommTpdemort"
             target="_blank"
