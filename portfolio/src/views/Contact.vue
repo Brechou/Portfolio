@@ -7,7 +7,7 @@
   <div
     class="flex mx-auto items-center justify-center gap-3 sm:pb-1 w-[260px] sm:w-[500px] border-b-4 sm:border-b-8 border-cyan-500 font-black">
     
-    <h2 class="text-white text-2xl sm:text-[48px]">CONTACTEZ MOI</h2>
+    <h2 class="text-white text-2xl sm:text-[48px]">CONTACTS</h2>
   </div>
 
   <p class="text-center text-slate-400 mt-4">
@@ -36,8 +36,8 @@
     <div class="card">
       <h3 class="title">GitHub</h3>
       <p>
-        <a target="_blank" href="https://github.com/tonpseudo">
-          @tonpseudo
+        <a target="_blank" href="https://github.com/Brechou">
+          @Brechou
         </a>
       </p>
     </div>
