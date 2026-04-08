@@ -23,14 +23,14 @@
     </div>
 
     <!-- LinkedIn -->
-    <div class="card">
+    <!-- <div class="card">
       <h3 class="title">LinkedIn</h3>
       <p>
         <a target="_blank" href="https://www.linkedin.com/in/tonprofil">
           Ton Nom
         </a>
       </p>
-    </div>
+    </div> -->
 
     <!-- GitHub -->
     <div class="card">
